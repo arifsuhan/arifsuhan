@@ -1,7 +1,7 @@
 ## Hey! I'm Arif Suhan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub: Arif Suhan](https://img.shields.io/github/followers/arifsuhan?label=follow&style=social)](https://github.com/arifsuhan)
-[![Linkedin: Suhan Chowdhury](https://img.shields.io/badge/-arif%suhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifsuhan/)](https://www.linkedin.com/in/arifsuhan/)
+[![Linkedin: Suhan Chowdhury](https://img.shields.io/badge/-arifsuhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/))](https://www.linkedin.com/in/arifsuhan/)
   
 I love developing and testing software, build technical communities, create content and love meeting new people!
 
