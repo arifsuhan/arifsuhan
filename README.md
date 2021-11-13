@@ -5,7 +5,7 @@
   
 I love developing and testing software, build technical communities, create content and love meeting new people!
 
-[![Arif Suhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/arifsuhan/github-readme-stats)
+[![Arif Suhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifsuhan&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/arifsuhan/github-readme-stats)
 
 
 <!--
