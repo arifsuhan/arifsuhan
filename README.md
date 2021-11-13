@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Credit: https://github.com/vermakhushboo/vermakhushboo
+
+QA: 
+https://www.facebook.com/TahanimaC/
+https://tahanima.github.io/
+https://www.facebook.com/groups/sqabdg/
 -->
